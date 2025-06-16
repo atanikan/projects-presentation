@@ -1,0 +1,12 @@
+
+graph TD
+    A["User Portal"] -->|"Query (location, metric, time)"| B["GeoServer"]
+    B -->|"Bounding Box"| C["Inference Gateway / FastAPI"]
+    C -->|"Check Cache"| D["Postgres/Redis DB"]
+    D -- "Cached" --> C
+    C -- "Not Cached" --> K["Kubeflow Pipelines"]
+    K -->|"Trigger Compute"| E["Globus Compute Job"]
+    E -->|"Distributed I/O & Compute"| F["Polaris Compute"]
+    F -->|"Results"| C
+    C -->|"Cache Results"| D
+    C -->|"Summary/Download"| A

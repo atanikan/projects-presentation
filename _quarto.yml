@@ -1,0 +1,19 @@
+google-scholar: true
+google-analytics: G-XVM2Y822Y1
+project:
+  type: website
+  output-dir: docs
+  preview:
+    port: 4204
+
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    incremental: true
+    code-fold: true
+    highlight-style: github-dark
+    css: css/custom.css
+    navigation-mode: linear
+    footer: "Data Services Architect | Computer Scientist"
+    logo: assets/logo.png

@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html#professional-background",
+    "href": "index.html#professional-background",
+    "title": "Data Services Architecture in Scientific Computing",
+    "section": "Professional Background",
+    "text": "Professional Background\n\nComputer Scientist & Data Services Architect\n6 years in scientific computing and HPC\n6 years of application development/software engineering experience\nExpertise in scalable software solutions\nFocus on AI systems and scientific workflows\n\nMission\n\n“Building bridges between scientific research and technology to accelerate discovery through innovative computing solutions”"
+  },
+  {
+    "objectID": "index.html#key-focus-areas",
+    "href": "index.html#key-focus-areas",
+    "title": "Data Services Architecture in Scientific Computing",
+    "section": "Key Focus Areas",
+    "text": "Key Focus Areas\n\nWorkflow Automation & Scaling\nData Discovery & Analysis Portals\nDatabase as a Service\nContainer Orchestration (HPC & Kubernetes)\nHPC & Edge Computing\nInference as a Service\nScientific Computing Solutions"
+  },
+  {
+    "objectID": "index.html#core-expertise",
+    "href": "index.html#core-expertise",
+    "title": "Data Services Architecture in Scientific Computing",
+    "section": "Core Expertise",
+    "text": "Core Expertise\n\nApplication development\nDevOps & Application Architecture\nData Services & Management\nScientific Workflow Automation"
+  },
+  {
+    "objectID": "index.html#notable-projects",
+    "href": "index.html#notable-projects",
+    "title": "Data Services Architecture in Scientific Computing",
+    "section": "Notable Projects",
+    "text": "Notable Projects"
+  },
+  {
+    "objectID": "index.html#qresp-2017-2019",
+    "href": "index.html#qresp-2017-2019",
+    "title": "Data Services Architecture in Scientific Computing",
+    "section": "Qresp (2017-2019)",
+    "text": "Qresp (2017-2019)\n\nCuration and Exploration of Reproducible Scientific Papers\nOpen source software for scientific data organization\nFacilitates annotation and exploration of research data\nEnhances reproducibility in scientific publications\nProject Website"
+  },
+  {
+    "objectID": "index.html#alcf-community-data-co-op-2022-2025",
+    "href": "index.html#alcf-community-data-co-op-2022-2025",
+    "title": "Data Services Architecture in Scientific Computing",
+    "section": "ALCF Community Data Co-Op (2022-2025)",
+    "text": "ALCF Community Data Co-Op (2022-2025)\n\nProduction environment for edge services\nBridges experimental laboratories and computing facilities\nProject-specific data portals for search and discovery\nFaceted search and data processing capabilities\nSecure authentication and authorization\nACDC Portal"
+  },
+  {
+    "objectID": "index.html#myalcf-portal-2020-2025",
+    "href": "index.html#myalcf-portal-2020-2025",
+    "title": "Data Services Architecture in Scientific Computing",
+    "section": "myALCF Portal (2020-2025)",
+    "text": "myALCF Portal (2020-2025)\n\nContributed to ALCF’s user portal\nManages user allocations and resources\nStreamlines user access to computing resources\nmyALCF Portal"
+  },
+  {
+    "objectID": "index.html#containerization-at-alcf-2022-2025",
+    "href": "index.html#containerization-at-alcf-2022-2025",
+    "title": "Data Services Architecture in Scientific Computing",
+    "section": "Containerization at ALCF (2022-2025)",
+    "text": "Containerization at ALCF (2022-2025)\n\nContainer orchestration and scaling\nMPI-enabled container deployments\nHigh-performance computing container solutions\nContainer Registry"
+  },
+  {
+    "objectID": "index.html#ibm-geospatial-studio-at-alcf-scalable-climate-data-analytics",
+    "href": "index.html#ibm-geospatial-studio-at-alcf-scalable-climate-data-analytics",
+    "title": "Data Services Architecture in Scientific Computing",
+    "section": "IBM GEOSPATIAL STUDIO at ALCF: Scalable Climate Data Analytics",
+    "text": "IBM GEOSPATIAL STUDIO at ALCF: Scalable Climate Data Analytics\n\nLocal deployment of Geospatial studio at ALCF for climate and weather data analytics\nEnables simulation, analysis, and querying of weather/climate data for North America (past 30 years)\nSupports both observed and modeled/simulated data\nProvides metrics (wind speed, temperature, pressure, etc.) and dataset downloads for downstream analysis"
+  },
+  {
+    "objectID": "index.html#first-2024-2025",
+    "href": "index.html#first-2024-2025",
+    "title": "Data Services Architecture in Scientific Computing",
+    "section": "FIRST (2024-2025)",
+    "text": "FIRST (2024-2025)\n\nFederated Inference Resource Scheduling Toolkit for LLM inference as a service on HPC clusters\nOpenAI-compatible API for chat, completion, embedding, and batch jobs\nFederated access: supports multiple clusters, frameworks (vLLM, Infinity), and models (Llama, Qwen, AuroraGPT, etc.)\nUses Globus Auth for authentication and Globus Compute for remote job execution\nScales to billions of tokens, 7M+ requests, 100+ users since 2024"
+  }
+]

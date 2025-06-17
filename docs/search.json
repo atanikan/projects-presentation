@@ -1,72 +1,163 @@
 [
   {
-    "objectID": "index.html#professional-background",
-    "href": "index.html#professional-background",
-    "title": "Data Services Architecture in Scientific Computing",
-    "section": "Professional Background",
-    "text": "Professional Background\n\nComputer Scientist & Data Services Architect\n6 years in scientific computing and HPC\n6 years of application development/software engineering experience\nExpertise in scalable software solutions\nFocus on AI systems and scientific workflows\n\nMission\n\n“Building bridges between scientific research and technology to accelerate discovery through innovative computing solutions”"
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "🚀 Data Services Architecture in Scientific Computing",
+    "section": "👋 About Me",
+    "text": "👋 About Me\n\n\n🎯 Professional Background\n\n💻 Computer Scientist & Data Services Architect\n🔬 6 years in scientific computing and HPC\n⚙️ 6 years of application development/software engineering\n📈 Expertise in scalable software solutions\n🤖 Focus on AI systems and scientific workflows\n\n\n🎯 Mission\n\n“🌟 Bridging research and technology to accelerate discovery”"
   },
   {
-    "objectID": "index.html#key-focus-areas",
-    "href": "index.html#key-focus-areas",
-    "title": "Data Services Architecture in Scientific Computing",
-    "section": "Key Focus Areas",
-    "text": "Key Focus Areas\n\nWorkflow Automation & Scaling\nData Discovery & Analysis Portals\nDatabase as a Service\nContainer Orchestration (HPC & Kubernetes)\nHPC & Edge Computing\nInference as a Service\nScientific Computing Solutions"
-  },
-  {
-    "objectID": "index.html#core-expertise",
-    "href": "index.html#core-expertise",
-    "title": "Data Services Architecture in Scientific Computing",
-    "section": "Core Expertise",
-    "text": "Core Expertise\n\nApplication development\nDevOps & Application Architecture\nData Services & Management\nScientific Workflow Automation"
-  },
-  {
-    "objectID": "index.html#notable-projects",
-    "href": "index.html#notable-projects",
-    "title": "Data Services Architecture in Scientific Computing",
-    "section": "Notable Projects",
-    "text": "Notable Projects"
+    "objectID": "index.html#expertise",
+    "href": "index.html#expertise",
+    "title": "🚀 Data Services Architecture in Scientific Computing",
+    "section": "🔧 Expertise",
+    "text": "🔧 Expertise\n\n\n🎯 Skills\n\n⚡ Application Development\n🔄 DevOps & Application Architecture\n📊 Data Services & Management\n🔬 Scientific Workflow Automation\n\n\n🚀 Key Focus Areas\n\n🤖 Workflow Automation & Scaling\n🔍 Data Discovery & Analysis Portals\n💾 Database as a Service\n🐳 Container Orchestration (HPC & Kubernetes)\n⚡ HPC & Edge Computing\n🧠 Inference as a Service"
   },
   {
     "objectID": "index.html#qresp-2017-2019",
     "href": "index.html#qresp-2017-2019",
-    "title": "Data Services Architecture in Scientific Computing",
-    "section": "Qresp (2017-2019)",
-    "text": "Qresp (2017-2019)\n\nCuration and Exploration of Reproducible Scientific Papers\nOpen source software for scientific data organization\nFacilitates annotation and exploration of research data\nEnhances reproducibility in scientific publications\nProject Website"
+    "title": "🚀 Data Services Architecture in Scientific Computing",
+    "section": "📄 Qresp (2017-2019)",
+    "text": "📄 Qresp (2017-2019)\n🔬 Curation and Exploration of Reproducible Scientific Papers\n\n\n\n📚 Open source software for scientific data organization\n📝 Facilitates annotation and exploration of research data\n♻️ Enhances reproducibility in scientific publications\n🌐 Community driven research platform\n\n\n🔗 Resources\n🌐 Project Website\n💡 Impact: Streamlined scientific data curation"
   },
   {
     "objectID": "index.html#alcf-community-data-co-op-2022-2025",
     "href": "index.html#alcf-community-data-co-op-2022-2025",
-    "title": "Data Services Architecture in Scientific Computing",
-    "section": "ALCF Community Data Co-Op (2022-2025)",
-    "text": "ALCF Community Data Co-Op (2022-2025)\n\nProduction environment for edge services\nBridges experimental laboratories and computing facilities\nProject-specific data portals for search and discovery\nFaceted search and data processing capabilities\nSecure authentication and authorization\nACDC Portal"
+    "title": "🚀 Data Services Architecture in Scientific Computing",
+    "section": "🌐 ALCF Community Data Co-Op (2022-2025)",
+    "text": "🌐 ALCF Community Data Co-Op (2022-2025)\n⚡ Production Environment for Edge Services\n\n\n\n🌉 Bridges experimental laboratories and computing facilities\n🔍 Project-specific data portals for search and discovery\n🎯 Faceted search and data processing capabilities\n🔐 Secure authentication and authorization\n📊 Real-time data exploration and analysis\n\n\n🔗 Resources\n🌐 ACDC Portal\n💡 Impact: Enhanced scientific collaboration"
   },
   {
     "objectID": "index.html#myalcf-portal-2020-2025",
     "href": "index.html#myalcf-portal-2020-2025",
-    "title": "Data Services Architecture in Scientific Computing",
-    "section": "myALCF Portal (2020-2025)",
-    "text": "myALCF Portal (2020-2025)\n\nContributed to ALCF’s user portal\nManages user allocations and resources\nStreamlines user access to computing resources\nmyALCF Portal"
+    "title": "🚀 Data Services Architecture in Scientific Computing",
+    "section": "👤 myALCF Portal (2020-2025)",
+    "text": "👤 myALCF Portal (2020-2025)\n🏢 ALCF’s User Management Portal\n\n\n\n👥 Manages user allocations and resources\n⚡ Streamlines user access to computing resources\n📊 Resource monitoring and usage tracking\n🔐 Secure authentication and project management\n\n\n🔗 Resources\n🌐 myALCF Portal\n💡 Impact: Simplified HPC resource access"
   },
   {
     "objectID": "index.html#containerization-at-alcf-2022-2025",
     "href": "index.html#containerization-at-alcf-2022-2025",
-    "title": "Data Services Architecture in Scientific Computing",
-    "section": "Containerization at ALCF (2022-2025)",
-    "text": "Containerization at ALCF (2022-2025)\n\nContainer orchestration and scaling\nMPI-enabled container deployments\nHigh-performance computing container solutions\nContainer Registry"
+    "title": "🚀 Data Services Architecture in Scientific Computing",
+    "section": "🐳 Containerization at ALCF (2022-2025)",
+    "text": "🐳 Containerization at ALCF (2022-2025)\n⚡ Container Orchestration and Scaling\n\n\n\n🔄 Container orchestration and scaling\n🚀 MPI-enabled container deployments\n💪 High-performance computing container solutions\n📦 Enterprise-grade container registry management\n\n\n🔗 Resources\n📦 Container Registry\n💡 Impact: Accelerated HPC workflows"
   },
   {
-    "objectID": "index.html#ibm-geospatial-studio-at-alcf-scalable-climate-data-analytics",
-    "href": "index.html#ibm-geospatial-studio-at-alcf-scalable-climate-data-analytics",
-    "title": "Data Services Architecture in Scientific Computing",
-    "section": "IBM GEOSPATIAL STUDIO at ALCF: Scalable Climate Data Analytics",
-    "text": "IBM GEOSPATIAL STUDIO at ALCF: Scalable Climate Data Analytics\n\nLocal deployment of Geospatial studio at ALCF for climate and weather data analytics\nEnables simulation, analysis, and querying of weather/climate data for North America (past 30 years)\nSupports both observed and modeled/simulated data\nProvides metrics (wind speed, temperature, pressure, etc.) and dataset downloads for downstream analysis"
+    "objectID": "index.html#climate-data-analytics",
+    "href": "index.html#climate-data-analytics",
+    "title": "🚀 Data Services Architecture in Scientific Computing",
+    "section": "📊 Climate Data Analytics",
+    "text": "📊 Climate Data Analytics"
   },
   {
-    "objectID": "index.html#first-2024-2025",
-    "href": "index.html#first-2024-2025",
-    "title": "Data Services Architecture in Scientific Computing",
-    "section": "FIRST (2024-2025)",
-    "text": "FIRST (2024-2025)\n\nFederated Inference Resource Scheduling Toolkit for LLM inference as a service on HPC clusters\nOpenAI-compatible API for chat, completion, embedding, and batch jobs\nFederated access: supports multiple clusters, frameworks (vLLM, Infinity), and models (Llama, Qwen, AuroraGPT, etc.)\nUses Globus Auth for authentication and Globus Compute for remote job execution\nScales to billions of tokens, 7M+ requests, 100+ users since 2024"
+    "objectID": "index.html#project-overview",
+    "href": "index.html#project-overview",
+    "title": "🚀 Data Services Architecture in Scientific Computing",
+    "section": "🌍 Project Overview",
+    "text": "🌍 Project Overview\n\n\n🎯 Mission\n\n🌡️ Climate and weather data analytics for North America\n📈 30+ years of historical data analysis\n🔬 Observed and modeled/simulated data support\n📊 Metrics extraction (wind speed, temperature, pressure, etc.)\n💾 Dataset downloads for downstream analysis\n\n\n📊 Scale\n\n💾 ~10PB of netCDF raster data\n📏 4km and 12km spatial resolution\n🌐 Distributed across HPC clusters\n⚡ Real-time query capabilities"
+  },
+  {
+    "objectID": "index.html#system-architecture",
+    "href": "index.html#system-architecture",
+    "title": "🚀 Data Services Architecture in Scientific Computing",
+    "section": "🏗️ System Architecture",
+    "text": "🏗️ System Architecture\n\n🌍 Climate Data Portal Architecture🔧 Architecture Components: - 🌐 User Portal | 🗺️ GeoServer | ☸️ Kubernetes Cluster | 💾 Object Storage | ⚡ ALCF Polaris Compute"
+  },
+  {
+    "objectID": "index.html#system-workflow",
+    "href": "index.html#system-workflow",
+    "title": "🚀 Data Services Architecture in Scientific Computing",
+    "section": "🔄 System Workflow",
+    "text": "🔄 System Workflow\n\n\n🎯 Key Components\n\n🌐 User Portal: Web interface for researchers\n🗺️ GeoServer: Spatial queries and bounding boxes\n☸️ Kubernetes: FastAPI inference gateway\n💾 Object Storage: Intermediate data storage\n⚡ ALCF Polaris: Heavy computation engine\n\n\n⚡ Capabilities\n\n📊 Bounding box queries\n🔍 Real-time analytics\n📈 Data visualization\n💾 Bulk downloads\n🔐 Secure access"
+  },
+  {
+    "objectID": "index.html#workflow-diagram",
+    "href": "index.html#workflow-diagram",
+    "title": "🚀 Data Services Architecture in Scientific Computing",
+    "section": "🔄 Workflow Diagram",
+    "text": "🔄 Workflow Diagram\n\n🌍 Climate Data Portal Workflow"
+  },
+  {
+    "objectID": "index.html#technical-challenges-solutions",
+    "href": "index.html#technical-challenges-solutions",
+    "title": "🚀 Data Services Architecture in Scientific Computing",
+    "section": "🚧 Technical Challenges & Solutions",
+    "text": "🚧 Technical Challenges & Solutions\n\n\n🎯 Key Challenges\n\n🌐 Federated access to 10PB+ distributed data\n⚡ Real-time and batch query scalability\n🔍 Efficient data indexing, caching, and retrieval\n👤 User-friendly, secure, and reliable access\n\n\n✅ Solutions Implemented\n\n🌐 Globus Compute for federated computation\n☸️ Kubernetes microservices (FastAPI)\n⚡ Async workflows and caching\n💾 Postgres/Redis for metadata caching\n📊 Web portal with status tracking"
+  },
+  {
+    "objectID": "index.html#broader-impact",
+    "href": "index.html#broader-impact",
+    "title": "🚀 Data Services Architecture in Scientific Computing",
+    "section": "🌟 Broader Impact",
+    "text": "🌟 Broader Impact\n\n\n\n🌍 IBM PAIRS Geoscope powers commercial weather apps\n🔬 At ALCF: tailored for scientific research and high-performance analytics\n📊 Makes petascale climate data accessible/actionable for research community\n♻️ Supports reproducible research and open science\n\n\n📈 Benefits\n\n⚡ Accelerated research workflows\n🔓 Open science enablement\n📊 Data integration capabilities\n🌐 Community collaboration"
+  },
+  {
+    "objectID": "index.html#federated-inference-resource-scheduling-toolkit",
+    "href": "index.html#federated-inference-resource-scheduling-toolkit",
+    "title": "🚀 Data Services Architecture in Scientific Computing",
+    "section": "🧠 Federated Inference Resource Scheduling Toolkit",
+    "text": "🧠 Federated Inference Resource Scheduling Toolkit"
+  },
+  {
+    "objectID": "index.html#project-overview-1",
+    "href": "index.html#project-overview-1",
+    "title": "🚀 Data Services Architecture in Scientific Computing",
+    "section": "🚀 Project Overview",
+    "text": "🚀 Project Overview\n\n\n🎯 Core Features\n\n🤖 LLM inference as a service on HPC clusters\n🔌 OpenAI-compatible API (chat, completion, embedding, batch)\n🌐 Federated access: multiple clusters and frameworks\n🔐 Globus Auth for authentication\n⚡ Globus Compute for remote job execution\n\n\n📊 Scale & Impact\n\n🚀 7M+ requests\n🔢 9B tokens\n👥 100+ users\n📅 Since 2024"
+  },
+  {
+    "objectID": "index.html#system-architecture-1",
+    "href": "index.html#system-architecture-1",
+    "title": "🚀 Data Services Architecture in Scientific Computing",
+    "section": "🏗️ System Architecture",
+    "text": "🏗️ System Architecture\n\n🤖 FIRST System Architecture🔧 Multi-cluster federated inference platform"
+  },
+  {
+    "objectID": "index.html#architecture-components",
+    "href": "index.html#architecture-components",
+    "title": "🚀 Data Services Architecture in Scientific Computing",
+    "section": "🔧 Architecture Components",
+    "text": "🔧 Architecture Components\n\n\n🎯 Core Systems\n\n🌐 Inference Gateway (Django REST/Ninja)\n🔐 Globus Auth: Federated identity & SSO\n⚡ Globus Compute: Secure HPC execution\n🤖 Inference Backends: vLLM, Infinity, SGLang\n\n\n⚡ Advanced Features\n\n🔄 Auto-scaling and hot node management\n🎯 Dynamic model selection\n🌐 Multi-cluster federation\n📊 Real-time status via /jobs endpoint"
+  },
+  {
+    "objectID": "index.html#request-flow-diagram",
+    "href": "index.html#request-flow-diagram",
+    "title": "🚀 Data Services Architecture in Scientific Computing",
+    "section": "🔄 Request Flow Diagram",
+    "text": "🔄 Request Flow Diagram\n\n🤖 FIRST Request Flow"
+  },
+  {
+    "objectID": "index.html#gateway-architecture",
+    "href": "index.html#gateway-architecture",
+    "title": "🚀 Data Services Architecture in Scientific Computing",
+    "section": "🏗️ Gateway Architecture",
+    "text": "🏗️ Gateway Architecture\n\n🤖 FIRST Gateway API"
+  },
+  {
+    "objectID": "index.html#key-features-capabilities",
+    "href": "index.html#key-features-capabilities",
+    "title": "🚀 Data Services Architecture in Scientific Computing",
+    "section": "🌟 Key Features & Capabilities",
+    "text": "🌟 Key Features & Capabilities\n\n\n🔌 API Features\n\n💬 Chat, completion, embedding endpoints\n📊 Batch mode for high-throughput\n🎯 Dynamic model selection\n⚡ Real-time job status\n\n\n🚀 Performance\n\n📈 Up to 150,000 requests/batch job\n🌐 Multi-cluster federation\n⚡ Auto-scaling capabilities\n🔐 Enterprise-grade security"
+  },
+  {
+    "objectID": "index.html#technical-challenges-solutions-1",
+    "href": "index.html#technical-challenges-solutions-1",
+    "title": "🚀 Data Services Architecture in Scientific Computing",
+    "section": "🚧 Technical Challenges & Solutions",
+    "text": "🚧 Technical Challenges & Solutions\n\n\n🎯 Key Challenges\n\n🌐 Federated, secure access to distributed HPC\n⚡ Efficient job scheduling and resource utilization\n🚀 Low-latency interactive and high-throughput batch\n🔐 Robust authentication, audit, and compliance\n\n\n✅ Solutions Implemented\n\n🌐 Globus Auth/Compute for federated orchestration\n⚡ Asynchronous Django API and caching\n🤖 vLLM/Infinity for optimized inference\n📊 Audit logging and Grafana dashboards"
+  },
+  {
+    "objectID": "index.html#impact-use-cases",
+    "href": "index.html#impact-use-cases",
+    "title": "🚀 Data Services Architecture in Scientific Computing",
+    "section": "🌟 Impact & Use Cases",
+    "text": "🌟 Impact & Use Cases\n\n\n📊 Usage Statistics\n\n🚀 7.3M+ inference requests\n🔢 9B tokens processed\n👥 100+ active users\n📅 Since July 2024\n\n\n🎯 Applications\n\n🔬 Model evaluation\n💬 Scientific chatbots (RAG)\n📊 Synthetic data generation\n🔐 Secure, scalable inference\n\n\n🔗 Resources\n⚡ Inference Endpoints | 🌐 Inference Gateway"
+  },
+  {
+    "objectID": "index.html#thank-you",
+    "href": "index.html#thank-you",
+    "title": "🚀 Data Services Architecture in Scientific Computing",
+    "section": "🙏 Thank You!",
+    "text": "🙏 Thank You!\n📧 Let’s Connect!\n🚀 Ready to build the future of scientific computing together!"
   }
 ]

@@ -1,7 +1,7 @@
 ---
-title: "Data Services Architecture in Scientific Computing"
-subtitle: "Bridging the Gap Between Research and Technology"
-author: "Aditya Tanikanti"
+title: "🚀 Data Services Architecture in Scientific Computing"
+subtitle: "🌉 Bridging the Gap Between Research and Technology"
+author: "👨‍💻 Aditya Tanikanti"
 date: today
 format:
   revealjs:
@@ -12,205 +12,436 @@ format:
     highlight-style: github-dark
     css: css/custom.css
     navigation-mode: linear
-    footer: "Data Services Architect | Computer Scientist"
-    logo: assets/logo.png
+    footer: "🔬 Data Services Architect | 💻 Computer Scientist"
+    logo: assets/image.png
 ---
 
-## Professional Background {.center .small-text}
+## 👋 About Me {.center .small-text}
 
-- **Computer Scientist & Data Services Architect**
-- 6 years in scientific computing and HPC
-- 6 years of application development/software engineering experience
-- Expertise in scalable software solutions
-- Focus on AI systems and scientific workflows
+:::: {.columns}
 
-### Mission {.center .small-text}
+::: {.column width="50%"}
+### 🎯 Professional Background
+- **💻 Computer Scientist & Data Services Architect**
+- **🔬 6 years** in scientific computing and HPC
+- **⚙️ 6 years** of application development/software engineering
+- **📈 Expertise** in scalable software solutions
+- **🤖 Focus** on AI systems and scientific workflows
+:::
 
-> "Building bridges between scientific research and technology to accelerate discovery through innovative computing solutions" 
+::: {.column width="50%"}
+### 🎯 Mission
+> **"🌟 Bridging research and technology to accelerate discovery"** 
+:::
 
-
-## Key Focus Areas {.center .small-text}
-
-- Workflow Automation & Scaling
-- Data Discovery & Analysis Portals
-- Database as a Service
-- Container Orchestration (HPC & Kubernetes)
-- HPC & Edge Computing
-- Inference as a Service
-- Scientific Computing Solutions
-
-## Core Expertise {.center .small-text}
-
-- Application development
-- DevOps & Application Architecture
-- Data Services & Management
-- Scientific Workflow Automation
-
-
-## Notable Projects {.center .small-text}
-
-## Qresp (2017-2019) {.center .small-text}
-- **Curation and Exploration of Reproducible Scientific Papers**
-- Open source software for scientific data organization
-- Facilitates annotation and exploration of research data
-- Enhances reproducibility in scientific publications
-- [Project Website](https://qresp.org/)
-
-## ALCF Community Data Co-Op (2022-2025) {.center .small-text}
-- **Production environment for edge services**
-- Bridges experimental laboratories and computing facilities
-- Project-specific data portals for search and discovery
-- Faceted search and data processing capabilities
-- Secure authentication and authorization
-- [ACDC Portal](https://acdc.alcf.anl.gov/)
-
-## myALCF Portal (2020-2025) {.center .small-text}
-- **Contributed to ALCF's user portal**
-- Manages user allocations and resources
-- Streamlines user access to computing resources
-- [myALCF Portal](https://my.alcf.anl.gov/accounts/)
-
-## Containerization at ALCF (2022-2025) {.center .small-text}
-- **Container orchestration and scaling**
-- MPI-enabled container deployments
-- High-performance computing container solutions
-- [Container Registry](https://github.com/argonne-lcf/container-registry) 
-
-## IBM GEOSPATIAL STUDIO at ALCF: Scalable Climate Data Analytics {.center .small-text}
-- Local deployment of Geospatial studio at ALCF for climate and weather data analytics
-- Enables simulation, analysis, and querying of weather/climate data for North America (past 30 years)
-- Supports both observed and modeled/simulated data
-- Provides metrics (wind speed, temperature, pressure, etc.) and dataset downloads for downstream analysis
+::::
 
 ---
 
-### System Architecture & Workflow
+## 🔧 Expertise {.center .small-text}
 
-![Climate Data Portal Architecture](assets/climate_arch.png)
+:::: {.columns}
 
-- Supports bounding box queries at 4km and 12km spatial resolution
-- ~10PB of netCDF raster data, distributed across HPC clusters and filesystems
+::: {.column width="50%"}
+### 🎯 Skills
+- **⚡ Application Development**
+- **🔄 DevOps & Application Architecture**
+- **📊 Data Services & Management**
+- **🔬 Scientific Workflow Automation**
+:::
 
+::: {.column width="50%"}
+### 🚀 Key Focus Areas
+- **🤖 Workflow Automation & Scaling**
+- **🔍 Data Discovery & Analysis Portals**
+- **💾 Database as a Service**
+- **🐳 Container Orchestration (HPC & Kubernetes)**
+- **⚡ HPC & Edge Computing**
+- **🧠 Inference as a Service**
+:::
 
----
-
-### System Architecture & Workflow (contd) {.center .small-text}
-
-- User Portal: Web interface for researchers to submit queries (e.g., average temperature for a region/time)
-- GeoServer: Handles spatial queries, determines bounding boxes, interfaces with backend
-- Kubernetes Cluster: Hosts FastAPI-based inference gateway and orchestration services
-- Object Storage: Stores intermediate/summary data for visualization and download
-- ALCF Polaris Compute: Handles heavy computation and data extraction from Eagle file system (10PB+ raster data)
-
----
-
-### Workflow Diagram {.center .small-text}
-
-![Climate Data Portal Workflow](assets/climate_workflow.svg)
-
----
-
-### Technical Challenges & Solutions {.center .small-text}
-
-#### Key Challenges
-- Federated access to 10PB+ distributed netCDF data
-- Real-time and batch query scalability
-- Efficient data indexing, caching, and retrieval
-- User-friendly, secure, and reliable access
+::::
 
 ---
 
-### Technical Challenges & Solution {.center .small-text}
-
-#### Solutions
-- Globus Compute for federated, secure remote computation
-- Kubernetes microservices (FastAPI), async workflows, and caching
-- Postgres/Redis for metadata and result caching
-- Web portal with status tracking, notifications, and downloads
+# 🌟 Notable Projects
 
 ---
 
-### Broader Impact {.center .small-text}
-- IBM PAIRS Geoscope powers commercial weather apps; at ALCF, tailored for scientific research and high-performance analytics
-- Makes petascale climate data accessible/actionable for research community
-- Supports reproducible research and open science by providing data download and integration with downstream workflows
+## 📄 Qresp (2017-2019) {.center .small-text}
+
+### 🔬 Curation and Exploration of Reproducible Scientific Papers
+
+:::: {.columns}
+
+::: {.column width="60%"}
+- **📚 Open source** software for scientific data organization
+- **📝 Facilitates annotation** and exploration of research data
+- **♻️ Enhances reproducibility** in scientific publications
+- **🌐 Community driven** research platform
+:::
+
+::: {.column width="40%"}
+### 🔗 Resources
+[**🌐 Project Website**](https://qresp.org/)
+
+**💡 Impact:** Streamlined scientific data curation
+:::
+
+::::
 
 ---
 
-## FIRST (2024-2025) {.center .small-text}
-- Federated Inference Resource Scheduling Toolkit for LLM inference as a service on HPC clusters
-- OpenAI-compatible API for chat, completion, embedding, and batch jobs
-- Federated access: supports multiple clusters, frameworks (vLLM, Infinity), and models (Llama, Qwen, AuroraGPT, etc.)
-- Uses Globus Auth for authentication and Globus Compute for remote job execution
-- Scales to billions of tokens, 7M+ requests, 100+ users since 2024
+## 🌐 ALCF Community Data Co-Op (2022-2025) {.center .small-text}
+
+### ⚡ Production Environment for Edge Services
+
+:::: {.columns}
+
+::: {.column width="60%"}
+- **🌉 Bridges** experimental laboratories and computing facilities
+- **🔍 Project-specific data portals** for search and discovery
+- **🎯 Faceted search** and data processing capabilities
+- **🔐 Secure authentication** and authorization
+- **📊 Real-time data** exploration and analysis
+:::
+
+::: {.column width="40%"}
+### 🔗 Resources
+[**🌐 ACDC Portal**](https://acdc.alcf.anl.gov/)
+
+**💡 Impact:** Enhanced scientific collaboration
+:::
+
+::::
 
 ---
 
-### System Architecture & Workflow {.center .small-text}
+## 👤 myALCF Portal (2020-2025) {.center .small-text}
 
-![FIRST System Architecture](assets/first_architecture.png)
+### 🏢 ALCF's User Management Portal
 
----
+:::: {.columns}
 
-### System Architecture & Workflow {.center .small-text}
+::: {.column width="60%"}
+- **👥 Manages user allocations** and resources
+- **⚡ Streamlines user access** to computing resources
+- **📊 Resource monitoring** and usage tracking
+- **🔐 Secure authentication** and project management
+:::
 
-- Inference Gateway (Django REST/Ninja): API, authentication, request routing, caching, audit
-- Globus Auth: Federated identity, SSO, group-based access control
-- Globus Compute: Secure remote execution on HPC clusters (PBS, Slurm, Kubernetes)
-- Inference Backends: vLLM, Infinity, SGLang, etc. on Sophia/Polaris clusters
+::: {.column width="40%"}
+### 🔗 Resources
+[**🌐 myALCF Portal**](https://my.alcf.anl.gov/accounts/)
 
----
+**💡 Impact:** Simplified HPC resource access
+:::
 
-### System Architecture & Workflow (contd) {.center .small-text}
-- Batch and interactive modes, auto-scaling, hot node management
-- Dynamic model selection, multi-cluster federation
-- Real-time job/model status via `/jobs` endpoint
-- Secure, auditable, and compliant with institutional policies
-
----
-
-### Workflow Diagram {.center .small-text}
-
-![FIRST Request Flow](assets/interactive_request_flow.png)
+::::
 
 ---
 
-### Gateway Architecure Diagram {.center .small-text}
+## 🐳 Containerization at ALCF (2022-2025) {.center .small-text}
 
-![FIRST Gateway API](assets/inference_gateway_architecture_focused_croped.png)
+### ⚡ Container Orchestration and Scaling
 
----
+:::: {.columns}
 
+::: {.column width="60%"}
+- **🔄 Container orchestration** and scaling
+- **🚀 MPI-enabled** container deployments
+- **💪 High-performance computing** container solutions
+- **📦 Enterprise-grade** container registry management
+:::
 
+::: {.column width="40%"}
+### 🔗 Resources
+[**📦 Container Registry**](https://github.com/argonne-lcf/container-registry)
 
-### Key Features & Capabilities {.center .small-text}
-- Supports chat, completion, embedding, and batch endpoints (OpenAI-compatible)
-- Dynamic model selection, multi-cluster federation, and auto-scaling
-- Batch mode for high-throughput, large-scale inference (up to 150,000 requests/job)
-- Real-time job/model status via `/jobs` endpoint
+**💡 Impact:** Accelerated HPC workflows
+:::
 
----
-
-### Technical Challenges & Solutions {.center .small-text}
-#### Challenges
-- Federated, secure access to distributed HPC resources
-- Efficient job scheduling, model loading, and resource utilization
-- Low-latency interactive and high-throughput batch inference
-- Robust authentication, audit, and compliance
-
----
-
-#### Solutions {.center .small-text}
-- Globus Auth/Compute for federated, secure orchestration
-- Asynchronous Django API, caching, and auto-scaling
-- vLLM/Infinity for optimized inference, batch mode for throughput
-- Audit logging, Grafana dashboards, and role-based access
+::::
 
 ---
 
-#### Impact & Use Cases {.center .small-text}
-- 7.3M+ inference requests, 9B tokens, 40+ users since July 2024
-- Used for model evaluation, scientific chatbots (RAG), and synthetic data generation
-- Enables secure, scalable, and reproducible LLM inference for science
-- [Inference endpoints](https://github.com/argonne-lcf/inference-endpoints)
-- [Inference gateway](https://github.com/auroraGPT-ANL/inference-gateway)
+# 🌍 IBM GEOSPATIAL STUDIO
+## 📊 Climate Data Analytics
+
+---
+
+## 🌍 Project Overview {.center .small-text}
+
+:::: {.columns}
+
+::: {.column width="60%"}
+### 🎯 Mission
+- **🌡️ Climate and weather data analytics** for North America
+- **📈 30+ years** of historical data analysis
+- **🔬 Observed and modeled/simulated** data support
+- **📊 Metrics extraction** (wind speed, temperature, pressure, etc.)
+- **💾 Dataset downloads** for downstream analysis
+:::
+
+::: {.column width="40%"}
+### 📊 Scale
+- **💾 ~10PB** of netCDF raster data
+- **📏 4km and 12km** spatial resolution
+- **🌐 Distributed** across HPC clusters
+- **⚡ Real-time** query capabilities
+:::
+
+::::
+
+---
+
+## 🏗️ System Architecture {.center .small-text}
+
+![🌍 Climate Data Portal Architecture](assets/climate_arch.png)
+
+**🔧 Architecture Components:**
+- **🌐 User Portal** | **🗺️ GeoServer** | **☸️ Kubernetes Cluster** | **💾 Object Storage** | **⚡ ALCF Polaris Compute**
+
+---
+
+## 🔄 System Workflow {.center .small-text}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+### 🎯 Key Components
+- **🌐 User Portal:** Web interface for researchers
+- **🗺️ GeoServer:** Spatial queries and bounding boxes
+- **☸️ Kubernetes:** FastAPI inference gateway
+- **💾 Object Storage:** Intermediate data storage
+- **⚡ ALCF Polaris:** Heavy computation engine
+:::
+
+::: {.column width="50%"}
+### ⚡ Capabilities
+- **📊 Bounding box queries**
+- **🔍 Real-time analytics**
+- **📈 Data visualization**
+- **💾 Bulk downloads**
+- **🔐 Secure access**
+:::
+
+::::
+
+---
+
+## 🔄 Workflow Diagram {.center .small-text}
+
+![🌍 Climate Data Portal Workflow](assets/climate_workflow.svg)
+
+---
+
+## 🚧 Technical Challenges & Solutions {.center .small-text}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+### 🎯 Key Challenges
+- **🌐 Federated access** to 10PB+ distributed data
+- **⚡ Real-time and batch** query scalability
+- **🔍 Efficient data indexing,** caching, and retrieval
+- **👤 User-friendly, secure,** and reliable access
+:::
+
+::: {.column width="50%"}
+### ✅ Solutions Implemented
+- **🌐 Globus Compute** for federated computation
+- **☸️ Kubernetes microservices** (FastAPI)
+- **⚡ Async workflows** and caching
+- **💾 Postgres/Redis** for metadata caching
+- **📊 Web portal** with status tracking
+:::
+
+::::
+
+---
+
+## 🌟 Broader Impact {.center .small-text}
+
+:::: {.columns}
+
+::: {.column width="60%"}
+- **🌍 IBM PAIRS Geoscope** powers commercial weather apps
+- **🔬 At ALCF:** tailored for scientific research and high-performance analytics
+- **📊 Makes petascale climate data** accessible/actionable for research community
+- **♻️ Supports reproducible research** and open science
+:::
+
+::: {.column width="40%"}
+### 📈 Benefits
+- **⚡ Accelerated** research workflows
+- **🔓 Open science** enablement
+- **📊 Data integration** capabilities
+- **🌐 Community** collaboration
+:::
+
+::::
+
+---
+
+# 🤖 FIRST (2024-2025)
+## 🧠 Federated Inference Resource Scheduling Toolkit
+
+---
+
+## 🚀 Project Overview {.center .small-text}
+
+:::: {.columns}
+
+::: {.column width="60%"}
+### 🎯 Core Features
+- **🤖 LLM inference as a service** on HPC clusters
+- **🔌 OpenAI-compatible API** (chat, completion, embedding, batch)
+- **🌐 Federated access:** multiple clusters and frameworks
+- **🔐 Globus Auth** for authentication
+- **⚡ Globus Compute** for remote job execution
+:::
+
+::: {.column width="40%"}
+### 📊 Scale & Impact
+- **🚀 7M+ requests**
+- **🔢 9B tokens**
+- **👥 100+ users**
+- **📅 Since 2024**
+:::
+
+::::
+
+---
+
+## 🏗️ System Architecture {.center .small-text}
+
+![🤖 FIRST System Architecture](assets/first_architecture.png)
+
+**🔧 Multi-cluster federated inference platform**
+
+---
+
+## 🔧 Architecture Components {.center .small-text}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+### 🎯 Core Systems
+- **🌐 Inference Gateway** (Django REST/Ninja)
+- **🔐 Globus Auth:** Federated identity & SSO
+- **⚡ Globus Compute:** Secure HPC execution
+- **🤖 Inference Backends:** vLLM, Infinity, SGLang
+:::
+
+::: {.column width="50%"}
+### ⚡ Advanced Features
+- **🔄 Auto-scaling** and hot node management
+- **🎯 Dynamic model selection**
+- **🌐 Multi-cluster federation**
+- **📊 Real-time status** via `/jobs` endpoint
+:::
+
+::::
+
+---
+
+## 🔄 Request Flow Diagram {.center .small-text}
+
+![🤖 FIRST Request Flow](assets/interactive_request_flow.png)
+
+---
+
+## 🏗️ Gateway Architecture {.center .small-text}
+
+![🤖 FIRST Gateway API](assets/inference_gateway_architecture_focused_croped.png)
+
+---
+
+## 🌟 Key Features & Capabilities {.center .small-text}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+### 🔌 API Features
+- **💬 Chat, completion,** embedding endpoints
+- **📊 Batch mode** for high-throughput
+- **🎯 Dynamic model selection**
+- **⚡ Real-time job status**
+:::
+
+::: {.column width="50%"}
+### 🚀 Performance
+- **📈 Up to 150,000** requests/batch job
+- **🌐 Multi-cluster** federation
+- **⚡ Auto-scaling** capabilities
+- **🔐 Enterprise-grade** security
+:::
+
+::::
+
+---
+
+## 🚧 Technical Challenges & Solutions {.center .small-text}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+### 🎯 Key Challenges
+- **🌐 Federated, secure access** to distributed HPC
+- **⚡ Efficient job scheduling** and resource utilization
+- **🚀 Low-latency interactive** and high-throughput batch
+- **🔐 Robust authentication,** audit, and compliance
+:::
+
+::: {.column width="50%"}
+### ✅ Solutions Implemented
+- **🌐 Globus Auth/Compute** for federated orchestration
+- **⚡ Asynchronous Django API** and caching
+- **🤖 vLLM/Infinity** for optimized inference
+- **📊 Audit logging** and Grafana dashboards
+:::
+
+::::
+
+---
+
+## 🌟 Impact & Use Cases {.center .small-text}
+
+:::: {.columns}
+
+::: {.column width="60%"}
+### 📊 Usage Statistics
+- **🚀 7.3M+ inference requests**
+- **🔢 9B tokens processed**
+- **👥 100+ active users**
+- **📅 Since July 2024**
+:::
+
+::: {.column width="40%"}
+### 🎯 Applications
+- **🔬 Model evaluation**
+- **💬 Scientific chatbots (RAG)**
+- **📊 Synthetic data generation**
+- **🔐 Secure, scalable inference**
+:::
+
+::::
+
+### 🔗 Resources
+[**⚡ Inference Endpoints**](https://github.com/argonne-lcf/inference-endpoints) | [**🌐 Inference Gateway**](https://github.com/auroraGPT-ANL/inference-gateway)
+
+---
+
+## 🙏 Thank You! {.center}
+
+### 📧 Let's Connect!
+
+**🚀 Ready to build the future of scientific computing together!**
+
+<!-- GitHub logo at bottom right -->
+<div style="position: fixed; bottom: 24px; right: 24px; z-index: 1000;">
+  <a href="https://github.com/atanikan" target="_blank" rel="noopener">
+    <img src="assets/github-mark-white.svg" alt="GitHub" width="40" height="40" style="opacity:0.85;"/>
+  </a>
+</div>
